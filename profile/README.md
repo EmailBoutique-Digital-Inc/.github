@@ -17,11 +17,7 @@ We design, build, test, and improve email systems that give marketing teams more
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/annettforcier/"><img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="24" height="24"></a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/emailboutique/"><img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="24" height="24"></a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/emailboutique/"><img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="24" height="24"></a>
+<a aria-label="Primary call to action: Visit LinkedIn" target="_blank" href="https://www.emailboutique.io/(https://www.linkedin.com/in/annettforcier/)"><img role="presentation" class="light-img" src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/cf38e1d1-4e64-401f-8872-d805b30df7a6.png" width="40" height="auto" alt="LinkedIn" style="color: #403A49; font-family: Verdana, sans-serif; text-align:left; font-weight:bold; font-size:16px; line-height:20px; text-decoration: none; margin: 0 auto; padding: 0; display: block;" border="0" /></a> &nbsp;&nbsp;<a aria-label="Primary call to action: Visit Instagram" target="_blank" href="[https://www.emailboutique.io/](https://www.instagram.com/emailboutique/)"><img role="presentation" class="light-img" src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/dc2811c0-a815-49f0-9a53-af99143f3a0d.png" width="40" height="auto" alt="Instagram" style="color: #403A49; font-family: Verdana, sans-serif; text-align:left; font-weight:bold; font-size:16px; line-height:20px; text-decoration: none; margin: 0 auto; padding: 0; display: block;" border="0" /> </a>&nbsp;&nbsp;<a aria-label="Primary call to action: Visit Facebook" target="_blank" href="https://www.emailboutique.io/"><img role="presentation" class="light-img" src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/f5dfc63b-4508-4982-b0bb-f586d6fbfc57.png" width="40" height="auto" alt="Facebook" style="color: #403A49; font-family: Verdana, sans-serif; text-align:left; font-weight:bold; font-size:16px; line-height:20px; text-decoration: none; margin: 0 auto; padding: 0; display: block;" border="0" /> </a>
 </p>
 
 ---
