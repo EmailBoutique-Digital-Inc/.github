@@ -25,7 +25,8 @@ Responsive, accessible HTML email built for the reality of inboxes — including
 
 We work across platforms including:
 
-**Denada · BetterEmail · Stensul · Knak · BEE · Marketo · Salesforce Marketing Cloud · Iterable · Braze · Klaviyo · HubSpot · Pardot · and many more.**
+**ESP: Marketo · Salesforce Marketing Cloud · Iterable · Braze · Klaviyo · HubSpot · Pardot · and many more.**
+**Email Builders: Denada · BetterEmail · Stensul · Knak · BEE** 
 
 ### 🔬 QA & Testing
 
