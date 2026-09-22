@@ -1,4 +1,4 @@
-<h1>EmailBoutique</h1>
+<a href="https://www.emailboutique.io/" target="_blank"><img role="presentation" src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/2240de5a-3037-4e8a-ab34-6dcb958212d4.png" width="280" height="auto" alt="EmailBoutique" style="color: #000000; font-family: Verdana, sans-serif; text-align:left; font-weight:bold; font-size:28px; line-height:30px; text-decoration: none; margin: 0 auto; padding: 0; display: block;max-width: 280px; width: 100%; height:auto;" border="0" /></a>
 
 <h3>Email systems, engineered properly.</h3>
 
