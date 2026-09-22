@@ -1,143 +1,100 @@
-<a href="https://www.emailboutique.io/" target="_blank"><img role="presentation" src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/2240de5a-3037-4e8a-ab34-6dcb958212d4.png" width="280" height="auto" alt="EmailBoutique" style="color: #000000; font-family: Verdana, sans-serif; text-align:left; font-weight:bold; font-size:28px; line-height:30px; text-decoration: none; margin: 0 auto; padding: 0; display: block; width: 280px; height:auto;" border="0" /></a>
+<!-- Commit to the org's .github repo at: profile/README.md
+     Put both banners in the SAME folder: profile/eb-github-header-light.png and profile/eb-github-header-dark.png -->
 
-<h3>Email systems, engineered properly.</h3>
+<div align="center">
+
+<a href="https://www.emailboutique.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./eb-github-header-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./eb-github-header-light.png">
+    <img alt="EmailBoutique — email systems, engineered properly. Design, Engineering, QA, AI" src="./eb-github-header-light.png" width="100%">
+  </picture>
+</a>
 
 <p>
-<strong>EmailBoutique Digital Inc.</strong> is an independent email design and engineering studio founded by
-<a href="https://www.annettforcier.com" target="_blank">Annett Forcier</a>.
+<a href="https://www.emailboutique.io"><strong>emailboutique.io</strong></a>
+&nbsp; · &nbsp;
+<a href="https://www.annettforcier.com"><strong>annettforcier.com</strong></a>
 </p>
 
 <p>
-We design, build, test, and improve email systems that give marketing teams more control over how they create email — from design systems and modular templates to production tooling, QA, accessibility, dark mode, and AI-assisted workflows.
+<a href="https://www.linkedin.com/in/annettforcier/"><img src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/cf38e1d1-4e64-401f-8872-d805b30df7a6.png" width="34" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://www.instagram.com/emailboutique/"><img src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/dc2811c0-a815-49f0-9a53-af99143f3a0d.png" width="34" alt="Instagram"></a>
+&nbsp;
+<a href="https://www.facebook.com/emailboutique/"><img src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/f5dfc63b-4508-4982-b0bb-f586d6fbfc57.png" width="34" alt="Facebook"></a>
 </p>
 
-<p>
-🌐 <strong><a href="https://www.emailboutique.io" target="_blank">emailboutique.io</a></strong>
-&nbsp;&nbsp; 👩‍💻 <strong><a href="https://www.annettforcier.com" target="_blank">annettforcier.com</a></strong>
-</p>
+</div>
 
-<p>
-  <a aria-label="Visit LinkedIn" target="_blank" href="https://www.linkedin.com/in/annettforcier/">
-    <img src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/cf38e1d1-4e64-401f-8872-d805b30df7a6.png" width="40" height="auto" alt="LinkedIn" border="0"/></a>&nbsp;&nbsp;
+<h2>Email systems, engineered properly.</h2>
 
-  <a aria-label="Visit Instagram" target="_blank" href="https://www.instagram.com/emailboutique/">
-    <img src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/dc2811c0-a815-49f0-9a53-af99143f3a0d.png" width="40" height="auto" alt="Instagram" border="0"/></a>&nbsp;&nbsp;
+<p><strong>EmailBoutique Digital Inc.</strong> is an independent email design and engineering studio founded by <a href="https://www.annettforcier.com">Annett Forcier</a>. We design, build, test and improve the systems behind email — design systems and modular templates, production tooling, QA, accessibility, dark mode, and AI-assisted workflows — so marketing teams get real control over how their email gets made.</p>
 
-  <a aria-label="Visit Facebook" target="_blank" href="https://www.facebook.com/emailboutique/">
-    <img src="https://d3k81ch9hvuctc.cloudfront.net/company/Jf8NMd/images/f5dfc63b-4508-4982-b0bb-f586d6fbfc57.png" width="40" height="auto" alt="Facebook" border="0"/></a>
-</p>
+<p>This GitHub organization is the technical side of that work: the tools, experiments and references we build and share in the open.</p>
 
----
+<h2>What we do</h2>
 
-## What we do
+<p><strong>Design systems</strong> — scalable systems in Figma, translated into production-ready email components. Not a folder of templates: one shared system that connects design, development and production.</p>
 
-### 🎨 Email Design Systems
+<p><strong>Email engineering</strong> — responsive, accessible HTML built for the reality of inboxes: Outlook, Gmail, Apple Mail, mobile, dark mode, and all the things email developers have learned not to trust.</p>
 
-We create scalable systems in Figma and translate them into production-ready email components.
+<blockquote>
+<p><strong>ESPs</strong> — Marketo · Salesforce Marketing Cloud · Iterable · Braze · Klaviyo · HubSpot · Pardot<br>
+<strong>Builders</strong> — Denada · BetterEmail · Stensul · Knak · BEE</p>
+</blockquote>
 
-The goal isn't just a collection of templates. It's a shared system that connects design, development, marketing, and production.
+<p><strong>Quality systems</strong> — QA past "it looks right": HTML/CSS, accessibility, responsive behaviour, dark mode, links and tracking, image handling, email weight, client compatibility, production readiness — as a repeatable process, not one person's habit.</p>
 
-### 🧑‍💻 Email Engineering
+<p><strong>AI &amp; workflow</strong> — where AI genuinely fits professional email development. Not generating HTML and hoping: teaching AI the strange, highly specialized rules of production email, and building the instructions, checks and guardrails that make the output usable — with expert review on top.</p>
 
-Responsive, accessible HTML email built for the reality of inboxes — including Outlook, Gmail, Apple Mail, mobile clients, dark mode, and everything else email developers have learned not to take for granted.
+<h2>What we're building</h2>
 
-We work across platforms including:
+<p>Selected tools, experiments and references from EmailBoutique's own work. MIT-licensed — use them, fork them, and tell us where they break.</p>
 
-**ESP:** Marketo · Salesforce Marketing Cloud · Iterable · Braze · Klaviyo · HubSpot · Pardot · and many more.  
-**Email Builders:** Denada · BetterEmail · Stensul · Knak · BEE
+<h3>🔬 email-html-qa-skill</h3>
 
-### 🔬 QA & Testing
+<p>Automated pre-send QA for HTML email, packaged as a Claude skill. It reads real email code and flags problems across rendering, dark mode, accessibility, links, images and production readiness — by severity.</p>
 
-Email QA goes far beyond checking whether something "looks right."
+<p>It's a diagnostic by design. Detecting the problems is the part that automates well, so we automated it. Knowing how to <em>fix</em> a broken dark-mode gradient, a clipped Gmail render or an inaccessible layout is the harder, specialist half — and that's the studio's work.</p>
 
-We test and develop tooling around:
+<p><strong><a href="https://github.com/EmailBoutique-Digital-Inc/email-html-qa-skill">Explore email-html-qa-skill →</a></strong></p>
 
-* HTML and CSS
-* accessibility
-* responsive behaviour
-* dark mode
-* links and tracking
-* image handling
-* email weight
-* client compatibility
-* production readiness
+<h3>📸 email-screenshot-tool</h3>
 
-### 🤖 AI + Email Engineering
+<p>Renders email HTML to clean, consistent screenshots for QA review and case-study documentation.</p>
 
-We're actively exploring how AI can become part of professional email development workflows.
+<p><strong><a href="https://github.com/EmailBoutique-Digital-Inc/email-screenshot-tool">Explore email-screenshot-tool →</a></strong></p>
 
-Not just generating HTML.
+<p><em>More tools and experiments are on the way.</em></p>
 
-Teaching AI to understand the strange, highly specialized rules of production email — and building the systems, instructions, checks, and guardrails that make the output useful.
+<h2>Systems you own, not emails you rent.</h2>
 
----
+<p>A good email system shouldn't make a team depend on the person who originally built it. We build systems designed to be understood, maintained, documented and run by the people who actually produce the email.</p>
 
-## 🧪 What we're building
+<pre><code>Figma → Design System → Components → HTML → ESP → QA → Documentation → Governance</code></pre>
 
-This GitHub organization is where we share selected tools, experiments, and resources created through our work at EmailBoutique.
+<p>The platforms change from one organization to the next. The principle doesn't.</p>
 
-### Email HTML QA Skill
+<h2>About the founder</h2>
 
-Automated QA for production email HTML and sent emails.
+<p><strong>Hi, I'm Annett.</strong> 👋</p>
 
-The project explores how AI-assisted workflows can identify potential problems across email code, accessibility, compatibility, links, images, dark mode, and other common QA concerns.
+<p>I've worked in front-end development since 1999 and specialized in email design and development for more than a decade. My work sits somewhere between design systems, front-end engineering, email development, marketing operations and — increasingly — AI. I've helped teams across a lot of industries turn fragmented email production into systems designers, developers and marketers can actually work with.</p>
 
-**[Explore the Email HTML QA Skill →](https://github.com/EmailBoutique-Digital-Inc/email-html-qa-skill)**
+<p>EmailBoutique is where that work becomes a business. My personal site is where you can see more of the person and the work behind it.</p>
 
-More tools and experiments are coming.
+<p><strong><a href="https://www.annettforcier.com">See more of the work → annettforcier.com</a></strong></p>
 
----
+<h2>Work with us</h2>
 
-## Systems you own, not emails you rent.
+<p>Building a new email system, untangling an existing one, migrating platforms, or building an AI product that needs someone who genuinely understands email HTML? That's the studio's work.</p>
 
-A good email system shouldn't make a team dependent on the person who originally built it.
+<p><strong><a href="https://www.emailboutique.io">emailboutique.io →</a></strong> &nbsp;·&nbsp; welcome@emailboutique.io</p>
 
-We create systems designed to be understood, maintained, documented, and used by the people who actually produce email.
+<hr>
 
-That can mean:
-
-**Figma → Design System → Components → HTML → ESP → QA → Documentation → Governance**
-
-The technology changes from organization to organization.
-
-The principle doesn't.
-
----
-
-## About the founder
-
-### Hi, I'm Annett. 👋
-
-I'm **Annett Forcier**, founder of EmailBoutique Digital Inc.
-
-I've worked in front-end development since 1999 and specialized in email design and development for more than a decade.
-
-My work sits somewhere between **design systems, UX, front-end engineering, email development, marketing operations, and increasingly AI**.
-
-I've worked with teams and brands across a wide range of industries, helping turn fragmented email production into reusable systems that designers, developers, and marketers can actually work with.
-
-EmailBoutique is where that work becomes a business.
-
-My personal site is where you can see more of the person and work behind it.
-
-**[Explore my work at annettforcier.com →](https://www.annettforcier.com)**
-
----
-
-## Work with EmailBoutique
-
-Need help with an existing email system?
-
-Building a new one?
-
-Migrating platforms?
-
-Trying to make email production more scalable?
-
-Or building an AI-powered email product that needs someone who actually understands email HTML?
-
-**[Visit EmailBoutique.io →](https://www.emailboutique.io)**
-
----
-
-<sub>Built with curiosity, a slightly unreasonable attention to email HTML, and probably too many browser tabs. 💌</sub>
+<div align="center">
+<sub><strong>EmailBoutique</strong> · Where email becomes a system.</sub><br>
+<sub>Built with curiosity, an unreasonable attention to email HTML, and probably too many browser tabs. 💌</sub>
+</div>
