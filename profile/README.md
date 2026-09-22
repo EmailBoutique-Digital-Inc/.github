@@ -1,13 +1,28 @@
-# EmailBoutique
+<h1>EmailBoutique</h1>
 
-### Email systems, engineered properly.
+<h3>Email systems, engineered properly.</h3>
 
-**EmailBoutique Digital Inc.** is an independent email design and engineering studio founded by [Annett Forcier](https://www.annettforcier.com).
+<p>
+<strong>EmailBoutique Digital Inc.</strong> is an independent email design and engineering studio founded by
+<a href="https://www.annettforcier.com">Annett Forcier</a>.
+</p>
 
+<p>
 We design, build, test, and improve email systems that give marketing teams more control over how they create email — from design systems and modular templates to production tooling, QA, accessibility, dark mode, and AI-assisted workflows.
+</p>
 
-🌐 **[emailboutique.io](https://www.emailboutique.io)**
-👩‍💻 **[annettforcier.com](https://www.annettforcier.com)**
+<p>
+🌐 <strong><a href="https://www.emailboutique.io">emailboutique.io</a></strong>
+&nbsp;&nbsp; 👩‍💻 <strong><a href="https://www.annettforcier.com">annettforcier.com</a></strong>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/annettforcier/"><img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="24" height="24"></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/emailboutique/"><img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="24" height="24"></a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/emailboutique/"><img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="24" height="24"></a>
+</p>
 
 ---
 
